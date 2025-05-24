@@ -18,7 +18,7 @@
 ---
 
 ## Offers List Is Here 👇👇
-<details><summary> Click Here To View List</summary>
+<details><summary><b> Click Here To View List</b></summary>
 <p>
 
 ###### CTRL/Command + F to Find anything  
