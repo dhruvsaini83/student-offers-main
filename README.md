@@ -8,11 +8,9 @@
 # <p align="center">Get FREE Student Offers List!
 <p align="center">
 <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v"/>
-<img src=https://visitor-badge.glitch.me/badge?page_id=dhruvsaini83.student-offers"/>
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 <img src="https://img.shields.io/badge/Contributors-Welcome-orange"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<img src="https://img.shields.io/badge/Hacktoberfest-Accepted-yellowgreen"/>
 </p>
 
 ---
