@@ -215,6 +215,7 @@
 |[Printful](https://www.printful.com/student-deals)|Free shipping on custom printed products|Product|
 |[Realme](https://www.realme.com/eu/student-discount)|5% extra Disocunt on phones and gadgets|Electronics|
 |[Youtube](https://www.youtube.com/premium/student)| 1-month free trial and ₹79.00/month after trail|Streaming|
+|[Google Gemini AI](https://one.google.com/u/1/ai-student?g1_landing_page=75&pageId=none)| 1yr free for Students|AI|
 
 <!--END_SECTION:cp-->
 
